@@ -1,5 +1,5 @@
 # Machine Learning with Python
-A series of machine learning topics implemented in Python using the sklearn library
+A series of machine learning topics implemented in Python using the sklearn library from one of the machine learning courses at Aalto University.
 
 ## Included topics
 - ### Components of Machine Learning
